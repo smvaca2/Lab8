@@ -9,6 +9,8 @@ _Martin Vaca
 
 ***1.-OBJETIVOS***
 
+_Determinar experimentalmente las características de señales senoidales.
+
 
 
 ***2.-MARCO TEÓRICO***
