@@ -53,22 +53,22 @@ transmitidas por los cables eléctricos, son también ejemplos de corriente alte
 *4.5.2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.*
 
-![]()
-
 *4.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.*
 
+![](https://github.com/smvaca2/Lab8/blob/42bea869db5c8e96f102914b87c0b5c9228ad841/WhatsApp%20Image%202022-08-22%20at%209.54.38%20PM.jpeg)
+
 *4.5.4. Responda las siguientes preguntas:*
 
-![]
+![](https://github.com/smvaca2/Lab8/blob/42bea869db5c8e96f102914b87c0b5c9228ad841/WhatsApp%20Image%202022-08-22%20at%209.55.25%20PM.jpeg)
 
-![]
+![](https://github.com/smvaca2/Lab8/blob/42bea869db5c8e96f102914b87c0b5c9228ad841/WhatsApp%20Image%202022-08-22%20at%209.55.33%20PM.jpeg)
 
-![]
+![](https://github.com/smvaca2/Lab8/blob/42bea869db5c8e96f102914b87c0b5c9228ad841/WhatsApp%20Image%202022-08-22%20at%209.55.39%20PM.jpeg)
 
-![]
+![](https://github.com/smvaca2/Lab8/blob/42bea869db5c8e96f102914b87c0b5c9228ad841/WhatsApp%20Image%202022-08-22%20at%209.55.45%20PM.jpeg)
 
-![]
+![](https://github.com/smvaca2/Lab8/blob/42bea869db5c8e96f102914b87c0b5c9228ad841/WhatsApp%20Image%202022-08-22%20at%209.55.59%20PM.jpeg)
 
 ***5.-VIDEO***
 
