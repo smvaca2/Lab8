@@ -11,15 +11,11 @@ _Martin Vaca
 
 _Determinar experimentalmente las características de señales senoidales.
 
-
+_Estudiar los comportamientos del osciloscopio de acuerdo a los voltajes.
 
 ***2.-MARCO TEÓRICO***
 
-![]()
-
-***3.-EXPLICACIÓN DEL PROCEDIMIENTO***
-
-![]()
+![](https://github.com/smvaca2/Lab8/blob/43c7ff94ba361608c5d10958862e054dfc9238e6/teo.PNG)
 
 ***4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR***
 
@@ -46,13 +42,13 @@ transmitidas por los cables eléctricos, son también ejemplos de corriente alte
 
 **4.4. MATERIAL Y EQUIPO REQUERIDO**
 
-![]()
+![](https://github.com/smvaca2/Lab8/blob/43c7ff94ba361608c5d10958862e054dfc9238e6/mat.PNG)
 
 **4.5. PROCEDIMIENTO**
 
 *4.5.1. Arme el circuito que se muestra en la figura 5.1.*
 
-![]()
+![](https://github.com/smvaca2/Lab8/blob/43c7ff94ba361608c5d10958862e054dfc9238e6/circuitp.PNG)
 
 *4.5.2. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.*
