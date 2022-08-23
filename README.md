@@ -60,7 +60,7 @@ el osciloscopio.*
 
 *4.5.4. Responda las siguientes preguntas:*
 
-![](https://github.com/smvaca2/Lab8/blob/d9507fac2ce227e63cb519fca390f67888f820cb/WhatsApp%20Image%202022-08-23%20at%207.54.20%20AM.jpeg)
+![](https://github.com/smvaca2/Lab8/blob/51c1818047c28ff73942e05f14e49e9a3eab6384/WhatsApp%20Image%202022-08-23%20at%208.30.49%20AM.jpeg)
 
 ![](https://github.com/smvaca2/Lab8/blob/42bea869db5c8e96f102914b87c0b5c9228ad841/WhatsApp%20Image%202022-08-22%20at%209.55.33%20PM.jpeg)
 
