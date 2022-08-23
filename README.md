@@ -72,7 +72,7 @@ el osciloscopio.*
 
 ***5.-VIDEO***
 
-
+https://youtu.be/lntlo4kNK50
 
 ***6.-CONCLUSIONES***
 
